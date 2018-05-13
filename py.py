@@ -1,0 +1,1 @@
+subprocess.call(["ps aux > ~/Programms/pyDataMirroring/output.txt"])

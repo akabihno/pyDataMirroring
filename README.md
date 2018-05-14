@@ -1,1 +1,5 @@
 # pyDataMirroring
+Requirements:
+
+tkinter
+paramiko
